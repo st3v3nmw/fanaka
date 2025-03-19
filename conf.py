@@ -8,7 +8,7 @@
 
 html_title = full_title = project = 'Mafanikio'
 copyright = '2025, Mafanikio contributors'
-author = 'Daniele Procida'
+author = 'Mafanikio contributors'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

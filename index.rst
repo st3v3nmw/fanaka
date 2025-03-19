@@ -5,7 +5,6 @@ Mafanikio
 ..  rubric:: A handbook for African success in the international software industry
 
 
-
 Opportunities
 =============
 

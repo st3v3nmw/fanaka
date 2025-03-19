@@ -1,6 +1,4 @@
-sphinx
 furo
-livereload
-pyenchant
+sphinx
 sphinx-autobuild
 sphinxcontrib-spelling
