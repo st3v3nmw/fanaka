@@ -31,3 +31,8 @@ html_css_files = ["mafanikio.css"
 intersphinx_mapping = {'vurt': ('https://vurt.eu', None)}
 
 spelling_lang = tokenizer_lang = "en_GB"
+
+html_theme_options = {
+    "top_of_page_buttons": ["edit"],
+}
+
