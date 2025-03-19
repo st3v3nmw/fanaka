@@ -7,27 +7,8 @@ SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = .
 BUILDDIR      = _build
-
-# Put it first so that "make" without argument is like "make help".
-help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-
-.PHONY: help Makefile
-
-# Catch-all target: route all unknown targets to Sphinx using the new
-# "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
-%: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
-
-# You can set these variables from the command line.
-SPHINXOPTS    =
-SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = mafanikio
-SOURCEDIR     = .
-BUILDDIR      = _build
-
-VENV = env/bin/activate
-PORT = 8888
+PORT          = 8888
+VENV          = env/bin/activate
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -46,23 +27,8 @@ install:
 	  "spelling checks) to work. \n" \
 	  "--------------------------------------------------------------- \n"
 
-clean:
-	-rm -rf _build/*
-
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" . -b dirhtml -a _build/html --host 0.0.0.0 --port $(PORT) --open-browser
-
-test:
-	. $(VENV); $(SPHINXBUILD) -b html . _build/html
-
-html:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml . _build/html
-
-pdf:
-	. $(VENV); $(SPHINXBUILD) -b pdf $(ALLSPHINXOPTS) . _build/pdf
-	@echo
-	@echo "Build finished. The PDF files are in _build/pdf."
-
+	. $(VENV); sphinx-autobuild "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O) --port $(PORT) -b dirhtml
 
 spelling:
 	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) . _build/spelling
@@ -70,10 +36,13 @@ spelling:
 	@echo "Check finished. Wrong words can be found in " \
 		"_build/spelling/output.txt."
 
-.PHONY: help install clean run Makefile
+clean:
+	-rm -rf _build/*
+
+.PHONY: help Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	. $(VENV); @$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
