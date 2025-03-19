@@ -1,0 +1,6 @@
+sphinx
+furo
+livereload
+pyenchant
+sphinx-autobuild
+sphinxcontrib-spelling
