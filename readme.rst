@@ -14,7 +14,7 @@ In the repository, set up the virtual environment::
 
     make install
 
-(This creates a virtual enviroment `env` in the root.)
+(This creates a virtual environment `env` in the root.)
 
 Start the built-in Sphinx server::
 
