@@ -18,7 +18,9 @@ Other factors that make a difference include:
 How well you do in your studies
 -------------------------------
 
-Someone who can demonstrate academic excellence (especially at an early career stage) is going to be a stronger candidate, whatever they studied. It's a way of standing out - grades and honours make a difference. For an employer, a candidate strong academic performance is an indicator of intelligence and ability work to a high standard in a sustained way - and it's one of the few reasonably objective indicators available.
+Someone who can demonstrate academic excellence (especially at an early career stage) is going to be a stronger candidate, whatever they studied. It's a way of standing out - grades and honours make a difference.
+
+    For an employer, a candidate's strong academic performance is an indicator of intelligence and ability work to a high standard in a sustained way. Often, especially for someone very early in their career, it's one of the few reasonably objective indicators available.
 
 
 What you choose to do with software
@@ -26,7 +28,7 @@ What you choose to do with software
 
 The popularity of Computer Science as a degree means that there an awful lot of rather lacklustre CS graduates in the world - people who chose it because it seemed like the safe, obvious option. They completed the degree, without visible passion or even enthusiasm.
 
-That's not attractive to a potential employer. The CS graduate who merely went through the motions is not hard to identify; their grades are not impressive, they produced unambitious projects, they kept a narrow focus on what their studies required them to tackle.
+That's not attractive to a potential employer. The CS graduate who merely went through the motions is not hard to identify; their grades are not impressive, they produced unambitious projects, they kept a narrow focus, only on what their studies required them to tackle.
 
 On the other hand, someone who threw themselves into their studies, and especially someone who eagerly took opportunities to use or create software as part of their studies (whatever the degree subject) is much more exciting. Software is everywhere now, and there is no shortage of opportunity for someone to demonstrate software skills in subjects all the way from biology to marketing.
 
@@ -57,3 +59,13 @@ For your studies too, open-source software has much to offer. It's one thing to 
 -----------
 
 In practice **any degree that allows you to demonstrate technical competence will have value when applying for a job**. Whatever the degree though, that's all it does - it *allows* you demonstrate what an employer needs - you need to find ways to demonstrate that competence and engagement.
+
+
+The wrong degree
+================
+
+Perhaps your studies were a long time ago, and weren't relevant or useful to the job you want to do now.
+
+In that case, you will have to draw on other achievements and successes in software. Sometimes, having attained them despite not having done the degree can help you stand out. You still need to have attained the success though - and it needs to be success as substantial as a degree.
+
+If you don't have that success already, you're going to have to work for it - there are no short-cuts.

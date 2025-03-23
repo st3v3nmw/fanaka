@@ -1,3 +1,5 @@
+.. _your-cv:
+
 =======
 Your CV
 =======
@@ -37,7 +39,7 @@ Someone from a European background could be named "James Williams" from the day 
 
 It's much more complex for many Africans, whose identities can be multi-dimensional. Many Africans use different given names and even family names depending on the context and whom they are talking to.
 
-This can be a complete puzzle for non-Africans: why does this candidate put the name Miriam Ofili on the application form, when her email address is afua.appiah@example.com and she signs her email messages with something else again?
+This can be a complete puzzle for non-Africans: why does this candidate put the name Miriam Ofili on the application form, use something different on her CV and she sign her email messages with something else again?
 
 For the purpose of presenting yourself in the world of international business, it's recommended to choose a version of your name and stick to it everywhere, as far as possible - in person, in your email address, on LinkedIn.
 
@@ -49,11 +51,19 @@ No doubt you have heard depressing stories of non-western candidates who suddenl
 
 ..  sidebar::
 
-    Would you want to work somewhere where having your name is a disadvantage?
+    Would you want to work in such an environment anyway?
 
-In one sense perhaps it's a lucky escape but it's still wrong and unfair.
+In one sense perhaps it's a lucky escape, but it's still wrong and unfair.
 
 Without doubt it happens, but it's hard to know how much, or what to advise.
+
+
+.. _your-cv-email:
+
+Your email address
+~~~~~~~~~~~~~~~~~~
+
+It helps if your email address appears to match your name - if Miriam Ofili uses the email address afua.appiah@example.com, that's confusing - even if there is a perfectly good reason for it that would be obvious to a Ghanaian. And whatever address you use, let it look professional. Maybe *coolzimboy98* was how you wanted the world to see you in high school, but perhaps it's time to use something else for professional purposes.
 
 
 Phone number
@@ -61,7 +71,7 @@ Phone number
 
 Format your phone number, for example *+233 23 123456*, in such a way that an international caller can enter it directly.
 
-Many in Africa will use have multiple phone numbers by default. List two if you really have to, but better to keep it simple with one for an international CV. It's quite unlikely that anyone will actually call you from abroad.
+Many in Africa will use have multiple phone numbers by default. List two if you really have to, but better to keep it simple with one for an international CV. (It's quite unlikely that anyone will actually call you from abroad anyway.)
 
 
 Other personal information
@@ -69,7 +79,7 @@ Other personal information
 
 *In general*, a western CV reviewer will not expect to see your full home address, but it's recommended to include e.g. *Accra, Ghana* (that provides useful information, such as time zone).
 
-Few will have any need to see your photograph. Some (especially in North America) will be rather surprised. Don't include a photograph unless the company is based somewhere that photographs are expected, such as South Africa. Do your research.
+Few will have any need to see your photograph. Some (especially in North America) will be rather surprised. Don't include a photograph unless the company is based somewhere that photographs are expected, such as South Africa. **Do your research** and find out what is expected.
 
 There is almost *never* a good reason to mention your religion, age, health or marital status.
 
@@ -77,7 +87,7 @@ There is almost *never* a good reason to mention your religion, age, health or m
 A personal statement
 --------------------
 
-This is optional. It can give a neat snapshot of as person, but it shouldn't be more than few words - perhaps one or two sentences - that says who you are, where you are going, and why.
+This is optional. It can give a neat snapshot of you as person, but it shouldn't be more than few words - perhaps one or two sentences - that says who you are, where you want to be going, and why.
 
     I am a recent computer science graduate. In my studies I saw directly how low-literacy mobile health applications can bring tangible benefits to marginalised rural communities. I want a career where I can contribute to that too.
 
@@ -95,13 +105,17 @@ Always in reverse order, most recent at the top. Include dates and places, and n
 
 **This space is precious**, so use it well. Don't waste it stating the obvious. If you were working as a backend engineer, it's completely useless to note that you "wrote backend" (what else would you expect a backend engineer to do?).
 
-What you need to do here is ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` -what *you* contributed. Or mention one-off things; even if they weren't part of the main story, they show what kind of person you will be:
+.. _your-cv-show-value:
 
-    Awarded "Developer of the Month" for completing a complex refactor of our database code
+What you need to do here is :ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` -what *you* contributed. Or mention one-off things; even if they weren't part of the main story, they show what kind of person you will be:
+
+    Awarded "Developer of the Month" for completing a complex refactor of our Postgres database code
 
 or:
 
     Spoke at <some conference> about some interesting challenges we discovered as our database scaled
+
+**Weave your skills into this.** Seeing a skill mentioned in the context of an achievement gives it a reality that listing it on its own never will.
 
 
 Education and qualifications
@@ -137,7 +151,7 @@ If you have some, they can be worth mentioning. Don't start listing every single
 Skills
 ------
 
-Be really careful with this. *Usually, it's a waste of space.* Most of these should have already been woven into the descriptions of what you did in the work history section, where they will have more meaning.
+Be really careful with this. *Usually, it's a waste of space.* Most of these should have already been woven into the descriptions of what you did in the work history section, where they will have more meaning. On the other hand, some experts recommend including it.
 
 Consider:
 
@@ -213,3 +227,19 @@ Go through each section, and decide what is the least important, least impressiv
 See :ref:`Be personal, specific and concrete  <vurt:interviewing-rules-be-personal>` and :ref:`Show the parts, not the whole <vurt:interviewing-rules-parts-not-wholes>`. Find ways to show more while saying less.
 
 Avoid the temptation to "cheat" by reducing margins, font sizes and spacing - you will start to make it look cramped.
+
+
+Automation and AI
+=================
+
+Many companies use applicant tracking systems (ATS) that automate CV review completely, and make the first decision to advance or reject a candidate. It is hard to know how well these systems handle all the complexities and ambiguities of natural language, and how many candidates fail to advance because the system failed to understand a CV properly.
+
+In any case, many now advise to write CVs not for a human reader, but for a machine. They encourage stuffing the CV with keywords from the job description.
+
+It's not clear that this is good advice. *Possibly* it helps when the CV is read by a machine, but to a human being it certainly looks mechanical and wrong.
+
+A similar kind of CV ugliness is produced by AI-powered CV builders. There are many of these, but they seem to produce identical kind of output. Many of them take the principle of :ref:`showing value <your-cv-show-value>` to a ludicrous extreme, so that for example every line conforms to a stereotype, complete with overblown language and unlikely-sounding metrics ("Spearheaded a re-organisation of the photocopier paper, achieving a 17.3% improvement in organisational efficiency").
+
+Don't fall for that, and don't fall for the dishonest self-description that some of these sites encourage. 
+
+**Think for yourself**, and think about yourself and your abilities like a human being. You need to be able to do that all the way through the process of securing a job, and you'll need to do most of it while in conversation with real human beings.
