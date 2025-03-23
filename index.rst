@@ -31,10 +31,40 @@ Relatively, their numbers in the industry are very low. That means it's harder f
 It's based on years of experience: of African professionals who have successfully navigated the challenges, and also of the colleagues who have worked with them and can offer insight and advice from the other side of the table.
 
 
+Sections in the handbook
+========================
+
+You
+---
+
+..  rubric:: About you, and how you present yourself
+
+..  toctree::
+    :maxdepth: 1
+
+    studies
+    your-cv
+    online-presence
 
 
-.. toctree::
-   :maxdepth: 1
+Approaching a job
+-----------------
 
-   studies
-   your-cv
+..  rubric:: Job applications and interviews
+
+..  toctree::
+    :maxdepth: 1
+
+    standing-out
+
+
+Successful practices
+--------------------
+
+..  rubric:: Skills for the effective job-seeker
+
+..  toctree::
+    :maxdepth: 1
+
+    writing-things-down
+    between-the-lines
