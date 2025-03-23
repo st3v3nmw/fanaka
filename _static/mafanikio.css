@@ -23,6 +23,8 @@ h2 {
     font-size: 1.75rem;
 }
 
+.content h2+* {margin-top: 2rem;}
+
 h3 {
     font-weight: 400;
     font-size: 1.75rem;
@@ -167,3 +169,15 @@ blockquote.epigraph {
 blockquote p.attribution {padding-left: 3em; font-style: normal;}
 
 figcaption {text-align: right; font-style: italic;}
+
+/* --------- tables --------- */
+
+[role=main] div.table-wrapper.container {overflow-x: visible;}
+table.docutils {box-shadow: none;}
+table.docutils th.head {padding: .5rem 0;}
+table.docutils td, table.docutils th {border-right: 1px solid black;}
+table.docutils th.stub {text-align: right;}
+table.docutils tr:last-child td,
+table.docutils tr:last-child th {border-bottom: none;}
+table.docutils thead {border-bottom: 1px solid black;}
+table.align-default {margin-left: 0; margin-right: 0}
