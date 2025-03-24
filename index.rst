@@ -10,7 +10,7 @@ Opportunities
 
 **Africans are well-placed for opportunities in the global software industry.**
 
-Africans speak English and other European languages to a high standard. They are served by many good universities. Reliable and reasonably fast Internet connections are available in most African cities. African time zones are ideal for remote workers.
+Africans typically speak English and other European languages to a high standard. They are served by many good universities. Reliable and reasonably fast Internet connections are available in most African cities. African time zones are ideal for remote workers in European organisations.
 
 
 Challenges
