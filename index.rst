@@ -1,5 +1,5 @@
 ==========
-Mafanikio
+Fanaka
 ==========
 
 ..  rubric:: A handbook for African success in the international software industry
@@ -24,9 +24,9 @@ Relatively, their numbers in the industry are very low. That means it's harder f
 
 ..  sidebar::
 
-    *Mafanikio* means *success* in Kiswahili, one of the most-widely spoken languages in Africa.
+    *Fanaka* means *success* in Kiswahili, one of the most-widely spoken languages in Africa.
 
-*Mafanikio* is a handbook for prospective and early-career professionals in the industry. It aims to cover some of the gaps, and help people work across them to success.
+*Fanaka* is a handbook for prospective and early-career professionals in the industry. It aims to cover some of the gaps, and help people work across them to success.
 
 It's based on years of experience: of African professionals who have successfully navigated the challenges, and also of the colleagues who have worked with them and can offer insight and advice from the other side of the table.
 
@@ -68,3 +68,4 @@ Successful practices
 
     writing-things-down
     between-the-lines
+    recording-value
