@@ -137,7 +137,7 @@ article .sidebar p.sidebar-title {
     .content {padding: 0 1em 0 17em;}
     article .sidebar,
     h2 {width: 14rem;}
-    img.wider, table.wider, figure.wider {
+    img. , table.wider, figure.wider {
         width: 52em; max-width: 52em;
         margin: 2em 0;
         left: -16em;
@@ -181,3 +181,4 @@ table.docutils tr:last-child td,
 table.docutils tr:last-child th {border-bottom: none;}
 table.docutils thead {border-bottom: 1px solid black;}
 table.align-default {margin-left: 0; margin-right: 0}
+table.wider tr {font-size: 90%;}

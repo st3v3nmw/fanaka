@@ -103,11 +103,19 @@ Work history
 
 Always in reverse order, most recent at the top. Include dates and places, and name the role.
 
-**This space is precious**, so use it well. Don't waste it stating the obvious. If you were working as a backend engineer, it's completely useless to note that you "wrote backend" (what else would you expect a backend engineer to do?).
+**This space is precious**, so use it well. Don't waste it stating the obvious. If you were working as a backend engineer, it's completely useless to note that you "wrote backend code" (what else would you expect a backend engineer to do?).
 
 .. _your-cv-show-value:
 
-What you need to do here is :ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` -what *you* contributed. Or mention one-off things; even if they weren't part of the main story, they show what kind of person you will be:
+What you need to do here is :ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` - what *you* contributed. For example:
+
+    Created automated test cases to address several long-standing fragilities, that helped resolve them once and for all
+
+    Rewrote all the tutorials for the product; we saw a 20% drop in common new-user support requests as result
+
+They keep showing what you did, and what value you brought in your work.
+
+You can also mention one-off things; even if they weren't part of the main story, they show what kind of person you are:
 
     Awarded "Developer of the Month" for completing a complex refactor of our Postgres database code
 
@@ -240,6 +248,6 @@ It's not clear that this is good advice. *Possibly* it helps when the CV is read
 
 A similar kind of CV ugliness is produced by AI-powered CV builders. There are many of these, but they seem to produce identical kind of output. Many of them take the principle of :ref:`showing value <your-cv-show-value>` to a ludicrous extreme, so that for example every line conforms to a stereotype, complete with overblown language and unlikely-sounding metrics ("Spearheaded a re-organisation of the photocopier paper, achieving a 17.3% improvement in organisational efficiency").
 
-Don't fall for that, and don't fall for the dishonest self-description that some of these sites encourage. 
+Don't fall for that, and don't fall for the dishonest self-description that some of these sites encourage.
 
 **Think for yourself**, and think about yourself and your abilities like a human being. You need to be able to do that all the way through the process of securing a job, and you'll need to do most of it while in conversation with real human beings.

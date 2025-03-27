@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-html_title = full_title = project = 'Mafanikio'
-copyright = '2025, Mafanikio contributors'
-author = 'Mafanikio contributors'
+html_title = full_title = project = 'Fanaka'
+copyright = '2025, Fanaka contributors'
+author = 'Fanaka contributors'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -25,7 +25,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env', 'readme.rst']
 
 html_theme = 'furo'
 html_static_path = ['_static']
-html_css_files = ["mafanikio.css"
+html_css_files = ["fanaka.css"
 ]
 
 intersphinx_mapping = {'vurt': ('https://vurt.eu', None)}

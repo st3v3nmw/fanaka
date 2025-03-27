@@ -4,13 +4,15 @@ backend
 blockchain
 Bluesky
 cryptocurrencies
+Cryptocurrency
 Cybersecurity
 ethnicities
+fragilities
 Github
 grandmaster
 Kiswahili
 Kubernetes
-Mafanikio
+Fanaka
 Muhammed
 Ofili
 olympiad
