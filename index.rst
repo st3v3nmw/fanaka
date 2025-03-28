@@ -69,3 +69,14 @@ Successful practices
     writing-things-down
     between-the-lines
     recording-value
+
+
+Understanding the industry
+--------------------------
+
+..  rubric:: How the international software industry works
+
+..  toctree::
+    :maxdepth: 1
+
+    remote-work-options
