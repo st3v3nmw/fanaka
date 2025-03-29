@@ -79,4 +79,5 @@ Understanding the industry
 ..  toctree::
     :maxdepth: 1
 
+    work-options
     remote-work-options
