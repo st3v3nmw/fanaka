@@ -4,7 +4,7 @@
 How to write things down
 ========================
 
-..  rubric:: A technique for note-taking for job-seekers
+..  rubric:: A technique for note-taking
 
 
 Writing things down is *good*.
@@ -17,9 +17,9 @@ But, there is a particular way of writing things down that can make them much mo
 Notes and sentences
 ===================
 
-First write them as short notes.
+First write them as **short notes**.
 
-Then write them again, *putting them into sentences*.
+Then write them again, putting them into **complete sentences**.
 
 There is real power and value in doing this. The reality is that you will look at a note you quickly scribbled down, and in your mind, it will represent a fully-formed thought. What you will discover, when you need to express it properly, in a real live situation, is that the effective expression of it eludes you. It will come out broken and weak.
 
