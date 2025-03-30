@@ -8,7 +8,7 @@ Every path you choose will have its benefits and disadvantages.
 
     Different things might matter to you more than others.
 
-Maybe you feel you will have more value earning a higher salary to send money back home, or perhaps that being part of a local technology community matters more. living in Europe might be a wonderful adventure for someone but a huge sacrifice for another. Perhaps you believe that the most important thing you can do is apply your software skills to African problems.
+Maybe you feel you will have more value earning a higher salary to send money back home, or perhaps that being part of a local technology community matters more. Living in Europe might be a wonderful adventure for someone but a huge sacrifice for another. Perhaps you believe that the most important thing you can do is apply your software skills to African problems.
 
 You can take the table below with a pinch of salt. It's not intended to be a precise and definitive guide. It's generalised and you can safely add *probably* in front of everything it says. For example, some people who run their own businesses in Africa *will* be enormously successful - though for most people that will not be the case, and the economic reward will be modest.
 
@@ -26,7 +26,7 @@ You can take the table below with a pinch of salt. It's not intended to be a pre
       - your skills will bring value to
       - as a senior, you will mentor
       - you will be part of
-    * - working in the west for an international company
+    * - :ref:`working in the west for an international company <remote-work-options>`
       - highest
       - high
       - abroad

@@ -20,7 +20,7 @@ How well you do in your studies
 
 Someone who can demonstrate academic excellence (especially at an early career stage) is going to be a stronger candidate, whatever they studied. It's a way of standing out - grades and honours make a difference.
 
-    For an employer, a candidate's strong academic performance is an indicator of intelligence and ability work to a high standard in a sustained way. Often, especially for someone very early in their career, it's one of the few reasonably objective indicators available.
+For an employer, a candidate's strong academic performance is an indicator of intelligence and ability work to a high standard in a sustained way. Often, especially for someone very early in their career, it's one of the few reasonably objective indicators available.
 
 
 What you choose to do with software
