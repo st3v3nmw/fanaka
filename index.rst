@@ -61,11 +61,12 @@ Approaching a job
 Successful practices
 --------------------
 
-..  rubric:: Skills for the effective job-seeker
+..  rubric:: Skills for success
 
 ..  toctree::
     :maxdepth: 1
 
+    plans
     writing-things-down
     between-the-lines
     recording-value
