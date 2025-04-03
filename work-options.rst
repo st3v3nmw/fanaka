@@ -2,7 +2,7 @@
 Different working arrangements
 ==============================
 
-Every path you choose will have its benefits and disadvantages.
+..  rubric:: Every path you choose will have its benefits and disadvantages.
 
 ..  sidebar::
 

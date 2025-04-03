@@ -4,7 +4,7 @@
 Reading between the lines
 =========================
 
-..  rubric:: Practise looking more depply, from what people say to what they really need.
+..  rubric:: Practise looking more deeply, from what people say to what they really need.
 
 You probably realise that throughout life, what people communicate shouldn't only be taken at face-value. Learning to identify what really matters from what they say matters is a valuable skill.
 

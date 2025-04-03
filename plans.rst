@@ -2,6 +2,8 @@
 Professional development plans
 ==============================
 
+..  rubric:: A plan changes what happens.
+
 At different times you may be asked to make a professional development plan, or choose to make one yourself. Many people who have done this previously at work will face the task with reluctance - because the plan has seemed unreal and arbitrary, and because they haven't seen meaningful results from it.
 
 This is really a shame, because a well-made plan is a wonderfully effective tool for success.
@@ -10,7 +12,15 @@ This is really a shame, because a well-made plan is a wonderfully effective tool
 Dimensions of a plan
 ====================
 
-A good plan is made up of three aspects:
+A good plan contains an aspiration, objectives and commitments. The **aspiration** is what you are reaching for; the **objectives** are what you will achieve along the way; the **commitments** are to the actions you will actually take.
+
+They answer three different questions:
+
+* What do you *want*?
+* What shall you *achieve*?
+* What will you *do*?
+
+They are separate, independent *dimensions* - they often get mixed up and blurred, but they are each a different *kind* of thing. Each one is necessary in a plan.
 
 ..  list-table::
     :header-rows: 1
@@ -22,14 +32,10 @@ A good plan is made up of three aspects:
     * - where you want to go
       - what you will make happen
       - what you commit to doing
-    * - What do you *want*?
-      - What shall you *achieve*?
-      - What will you *do*?
-    * - meaning, direction, value, aim
-      - progress, measurement, outcomes
-      - effort, accountability, action
+    * - *meaning, direction, value, aim*
+      - *progress, measurement, outcomes*
+      - *effort, accountability, action*
 
-They are separate, independent *dimensions* - they often get mixed up and blurred, but they are each a different *kind* of thing. Each one is necessary in a plan.
 
 
 Aspiration
@@ -39,7 +45,7 @@ The aspiration or ambition is *what you are aiming towards*. It's the answer to 
 
 You are *here*, and you desire to be *there*; your aspiration lies in a certain direction. It is the value that gives your whole plan meaning; it's something you believe in because it's worth reaching for.
 
-Ambitions don't need to be particularly realistic to have value. They should have at least a little wildness in them, because a safe and comfortable ambition isn't going to inspire you.
+*Ambitions don't need to be particularly realistic to have value.* They should have at least a little wildness in them, because a safe and comfortable ambition isn't going to inspire you.
 
 A plan without aspiration is without meaning, value or direction - it's empty.
 

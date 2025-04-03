@@ -4,6 +4,9 @@
 Remote work options
 ========================================================
 
+..  rubric:: Remote work offers Africans a fairer opportunity to compete in a global jobs market.
+
+
 Different kinds of remote
 =========================
 
