@@ -85,6 +85,7 @@ article .sidebar p.sidebar-title {
 }
 
 /* --------- widths at different breakpoints --------- */
+
 /*  break out content asides and images at 52em */
 
 @media only screen and (min-width: 52em) {
@@ -109,13 +110,12 @@ article .sidebar p.sidebar-title {
     article aside.sidebar {border: none;}
     article .sidebar>*,
     article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
-    img.wider, table.wider, figure.wider {
+    .wider {
         width: 50em; max-width: 50em;
         margin: 2em 0;
         left: -14em;
         position: relative;
     }
-
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
     img.floated {
         width: 50%;
@@ -137,7 +137,7 @@ article .sidebar p.sidebar-title {
     .content {padding: 0 1em 0 17em;}
     article .sidebar,
     h2 {width: 14rem;}
-    img. , table.wider, figure.wider {
+    .wider {
         width: 52em; max-width: 52em;
         margin: 2em 0;
         left: -16em;
@@ -169,6 +169,8 @@ blockquote.epigraph {
 blockquote p.attribution {padding-left: 3em; font-style: normal;}
 
 figcaption {text-align: right; font-style: italic;}
+
+div.table-wrapper {position: static;} /* a fix to prevent tables *and* their wrappers from having position: relative */
 
 /* --------- tables --------- */
 
