@@ -45,6 +45,7 @@ You
     studies
     your-cv
     online-presence
+    your-connections
 
 
 Approaching a job
