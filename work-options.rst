@@ -26,7 +26,7 @@ You can take the table below with a pinch of salt. It's not intended to be a pre
       - your skills will bring value to
       - as a senior, you will mentor
       - you will be part of
-    * - :ref:`working in the west for an international company <remote-work-options>`
+    * - working in the west for an international company
       - highest
       - high
       - abroad
@@ -34,7 +34,7 @@ You can take the table below with a pinch of salt. It's not intended to be a pre
       - the west
       - western juniors
       - foreign technology communities
-    * - remote work for an international company
+    * - :ref:`remote work for an international company <remote-work-options>`
       - high
       - high
       - in your own country

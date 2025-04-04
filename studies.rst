@@ -20,9 +20,9 @@ Needless to say, there is no simple answer to such questions, but there is a sim
 
 For example, if it will be a great financial hardship to attend university and study for a degree for a few years, you will struggle to do really well - so don't go down that path. On the other hand if you think that you will succeed very well in your studies, working hard consistently and achieving good results, but would likely only achieve moderate success if you went straight into work - then dedicate yourself to your studies.
 
-It is true that for many jobs, a degree is required. That won't make a several years of unenjoyable, unsatisfying studies followed a mediocre degree result worth pursuing, and they won't make you are a good candidate.
+It is true that for many jobs, a degree is required. That won't make several years of unenjoyable, unsatisfying studies followed a mediocre degree result worth pursuing, and they won't make you are a good candidate.
 
-Whatever you choose, it must be something you can dedicate yourself to, and you must actually dedicate yourself to it. Achieving the best possible success in what you choose is much more significant than *what* you choose.
+Whatever you choose, it must be something you can dedicate yourself to, and you must actually dedicate yourself to it. **Achieving the best possible success in what you choose is much more significant than what you choose.**
 
 
 What to study?
