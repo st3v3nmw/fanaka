@@ -11,6 +11,7 @@ Fanaka
 fragilities
 Github
 grandmaster
+infographics
 initializer
 Kiswahili
 Kubernetes
@@ -22,5 +23,6 @@ Pluralsight
 Postgres
 resumé
 Tigrinya
+transactional
 unenjoyable
 Usama

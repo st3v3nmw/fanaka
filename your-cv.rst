@@ -126,6 +126,29 @@ or:
 **Weave your skills into this.** Seeing a skill mentioned in the context of an achievement gives it a reality that listing it on its own never will.
 
 
+Contracting, freelance, part-time roles
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A problem for many African candidates in particular is that they have a **patchy work history**, that's simply a consequence of the limited and unstable nature of the opportunities available in their economy.
+
+..  sidebar:: Experience
+
+    One candidate was told sternly by an interviewer that if he got the job, he would "need to stop all the side-hustles" - as if the multiple things he had on the go represented a choice rather than a necessity.
+
+It can look bad on a CV - messy and hard to understand, and suggesting that the candidate has neither focus-power nor commitment, with overlapping jobs in different fields, with no sense of progression or direction.
+
+It might not be possible for you to avoid this, but ensure that you describe them in a way that makes them look more coherent, and clearly shows that they all belong under a heading of contracting or freelance work. For example:
+
+    *Contracting roles 2021-2025*
+
+    * Technical documentation, SEO, website maintenance (*<client one>*)
+    * White papers, website content, technical articles (*<client two>*)
+    * Data analysis and presentation (infographics, charts, design) (*<client three>*)
+    * Technical support, customer outreach, lead generation (*<client four>*)
+
+In this case, you could make it look even more intentional: *Samuel Oni Technical Communication (contracting roles 2021-2025)*. And why not? Entire companies have a business model like this, such as agencies.
+
+
 Education and qualifications
 ----------------------------
 
