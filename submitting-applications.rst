@@ -181,4 +181,4 @@ Unfortunately as a candidate you must get used to all kinds of disrespectful beh
 
 It's like an arms race of discourtesy. Companies get so many applications that they use automated systems and AI to do some of the work of assessing them. In turn candidates use automated systems to create their applications and submit them in vast numbers. The automated systems don't care if the jobs they're applying for are completely unsuitable. Candidates let LLMs make up lies on their behalf. Hiring managers will engage an application in earnest conversation by email before cancelling an interview at a moment's notice and then never again replying to the bewildered candidate's messages.
 
-You can't avoid it, but don't be a part of it. And don't take it personally, but do keep notes in your record of how other people behaved. One day you might just be on the other side of the table.
+You can't avoid it, but **don't be a part of it**. And don't take it personally, but do keep notes in your record of how other people behaved. One day you might just be on the other side of the table.
