@@ -260,6 +260,22 @@ See :ref:`Be personal, specific and concrete  <vurt:interviewing-rules-be-person
 Avoid the temptation to "cheat" by reducing margins, font sizes and spacing - you will start to make it look cramped.
 
 
+.. _your-cv-customisation:
+
+Customising your CV
+===================
+
+Consider customising your CV for an application, especially if you are applying to quite different kinds of roles. It's reasonable to have different versions of your CV.
+
+..  sidebar::
+
+    **Always be truthful**, but pay attention to how your CV shows how you are suited to the role.
+
+An example of customising your CV might be to describe yourself as a *Documentation-focused developer advocate* for one role and - perfectly fairly - as *DevRel engineer/technical author* for another. You might re-order or even redescribe skills and accomplishments, or omit some for others.
+
+This does take time, and if you do it in a hurry you risk making things worse, not better. It won't help if you add spelling mistakes.
+
+
 Automation and AI
 =================
 

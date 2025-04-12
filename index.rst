@@ -56,6 +56,8 @@ Approaching a job
 ..  toctree::
     :maxdepth: 1
 
+    finding-jobs
+    submitting-applications
     standing-out
 
 
