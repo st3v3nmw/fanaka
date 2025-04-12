@@ -65,7 +65,7 @@ Those communities also often have channels for career advice and job-seekers, an
 
     Remember that these places are **communities**. People have long memories for both good and bad community behaviour.
 
-* `Write the Docs job board <http://jobs.writethedocs.org/>`_; the `Write the Doc Slack group <https://join.slack.com/t/writethedocs/shared_invite/zt-33jy2gq42-WRkdgfH32FTe2ZLwft7jPA>`_ has a superb jobs channel (and related careers advice channel)
+* `Write the Docs job board <http://jobs.writethedocs.org/>`_; the `Write the Docs Slack group <https://join.slack.com/t/writethedocs/shared_invite/zt-33jy2gq42-WRkdgfH32FTe2ZLwft7jPA>`_ has a superb jobs channel (and related careers advice channel)
 * `DevRel Collective  jobs board <https://devrelcollective.fun/#jobs>`_; the DevRel Collective Slack group is by application only, via the website
 
 
