@@ -10,7 +10,15 @@ Fitting in is how you will get into a company's hiring process. Standing out is 
 
 ..  sidebar::
 
-    To be considered for a role you must *conform*.
+    ..  admonition:: Contribute your perspective
+
+        What has been your experience?
+        Have you ever felt that you were valued for the way you stood out? How?
+        What has surprised you?
+
+        :ref:`How to contribute <contribute>`
+
+To be considered for a role you must *conform*.
 
 You must conform to the prospective employer's expectations, of skills, experience, qualifications. You must conform to the way hiring processes work. :ref:`Your CV <your-cv>` must conform to expectations of length, style, content. **You have to give them what they want.**
 
@@ -18,9 +26,7 @@ This can be hard, especially if you're not already an industry insider. You migh
 
 Some of them might even be unfair expectations, for example if an African woman does not fit a recruiter's unconscious idea of "what a database engineer looks like".
 
-..  sidebar::
-
-    And somehow, at the same time, you must *stand out*.
+And somehow, at the same time, you must *stand out*.
 
 To be selected, you need to stand out from all the other candidates. You don't just need to *be* the best-suited to the role, you need to find ways to *show* that effectively. You have to catch the eye, and be remembered. **Give them something that perhaps they didn't even realise they could have.**
 

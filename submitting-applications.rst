@@ -19,6 +19,14 @@ It's true that they save a lot of time and effort. Instead of painstakingly find
 
 It's very tempting, especially when you read that an average person needs tens of applications just to get a first interview.
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        If you have used one of these services, what was your experience?
+
+        :ref:`How to contribute <contribute>`
+
 Reality
 -------
 

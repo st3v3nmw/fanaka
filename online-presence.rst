@@ -64,6 +64,16 @@ Your website or weblog
 
 If you have the time and energy to maintain it, a website of your own is a valuable thing. (Depending how you do it, you can be responsible for every aspect of it from design to deployment, and that in itself demonstrates a kind of technical engagement.) It can be an "about me" presence with real personality.
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Have you been noticed by an employer because of your online presence?
+        What has worked for you?
+        What advice would you give someone else?
+
+        :ref:`How to contribute <contribute>`
+
 What do you want to put on it? First of all, be aware that it's very easy to start something like that in a fit of enthusiasm, and then find that having written a few articles, it becomes harder and harder to maintain the momentum.
 
 Interviewers are very used to looking up a candidate's website, and finding that it contains a rush of articles that were all written within six weeks of each other, three years ago. (The other thing they often see is that the site is very new, and that every article shows every sign of having been created solely to be a portfolio while job-hunting.)

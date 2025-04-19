@@ -107,7 +107,7 @@ article .sidebar p.sidebar-title {
         background: none;
     }
 
-    article aside.sidebar {border: none;}
+    article aside.sidebar {border: none; text-align: left;}
     article .sidebar>*,
     article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
     .wider {
@@ -116,6 +116,7 @@ article .sidebar p.sidebar-title {
         left: -14em;
         position: relative;
     }
+
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
     img.floated {
         width: 50%;
@@ -184,3 +185,8 @@ table.docutils tr:last-child th {border-bottom: none;}
 table.docutils thead {border-bottom: 1px solid black;}
 table.align-default {margin-left: 0; margin-right: 0}
 table.wider tr {font-size: 90%;}
+
+
+/* -------- admonitions -------*/
+
+aside.sidebar .admonition .admonition-title {background: #ff9999;}

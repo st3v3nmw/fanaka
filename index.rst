@@ -1,3 +1,7 @@
+.. meta::
+   :description: Fanaka is a handbook for African success in the international software industry
+
+
 ==========
 Fanaka
 ==========
@@ -85,3 +89,12 @@ Understanding the industry
 
     work-options
     remote-work-options
+
+
+Contribute
+----------
+
+..  toctree::
+    :maxdepth: 1
+
+    contribute

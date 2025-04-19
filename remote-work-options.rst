@@ -13,6 +13,15 @@ Different kinds of remote
 Many companies around the world advertise remote jobs, but not all remote jobs are the same kind of remote. It's possible to waste a lot of time looking through job advertisements, and even applying for them, because the listings don't make it completely clear what's required.
 
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Do you work remotely for an international employer What has your experience been?
+
+        :ref:`How to contribute <contribute>`
+
+
 Globally remote versus working from home
 ----------------------------------------
 

@@ -28,6 +28,17 @@ Whatever you choose, it must be something you can dedicate yourself to, and you 
 What to study?
 ==============
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        * What was *your* experience of obtaining a degree and then a job? What did you study?
+        * Was the degree essential, helpful, not necessary?
+        * What did it prepare you well for, and what less so?
+        * What would you do differently? What would you advise your younger self?
+
+        :ref:`How to contribute <contribute>`
+
 Sometimes people see a degree in Computer Science as the key to a career in software.
 
 The reality is that there are many, many ways to enter the software industry. A Computer Science degree is indeed an obvious choice. But, it will only ever be one factor in someone's success, whether when applying for a job or already in it. And, it is never simply going to be a passport to a career.

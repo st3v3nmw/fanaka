@@ -21,3 +21,6 @@ Start the built-in Sphinx server::
     make run
 
 And you will find the site at http://localhost:8888.
+
+
+To perform spelling checks, run ``make spelling``.

@@ -4,9 +4,19 @@
 Reading between the lines
 =========================
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Have you had an experience of successfully reading between the lines - or failing to?
+
+        :ref:`How to contribute <contribute>`
+
 ..  rubric:: Practise looking more deeply, from what people say to what they really need.
 
-You probably realise that throughout life, what people communicate shouldn't only be taken at face-value. Learning to identify what really matters from what they say matters is a valuable skill.
+You probably realise that throughout life, what people communicate shouldn't only be taken at face-value.
+
+Learning to identify what really matters from what they say matters is a valuable skill (and therefore it requires practice).
 
 It applies when job-seeking too. If you are able to look beyond what people say to the deeper needs they are trying to express, you'll give yourself more opportunities for success.
 

@@ -25,7 +25,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env', 'readme.rst']
 
 html_theme = 'furo'
 html_theme_options = {
-    "top_of_page_buttons": ["edit", "view"],
+    "top_of_page_buttons": ["edit"],
     "source_repository": "https://github.com/evildmp/fanaka/",
     "source_branch": "main",
 }

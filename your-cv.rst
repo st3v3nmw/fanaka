@@ -12,14 +12,22 @@ Your CV
 
 You need to pay attention to *what your CV says*, but also *how it says it*.
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        How did you write your CV? Have you had feedback from an employer on it? What did they say? What was the best advice you had about your CV?
+
+        :ref:`How to contribute <contribute>`
+
 Many job applicants pay much more attention to the first of these, and fail to appreciate how much the latter matters. They put a lot of care into making sure it includes the things they think matter, but don't always manage to make a good impression with it.
+
 
 Both those things matter, and arguably, what a busy reviewer will often take away from your CV is an *impression*.
 
 Another thing that many don't realise is that what an employer expects in a CV can be very different, depending which part of the world they're in. A CV that works for Germany might be much less successful for Canada or India. We'll highlight some points where that might matter below.
 
 But let's start with the content, which is more straightforward.
-
 
 What your CV should contain
 ===========================
@@ -86,6 +94,16 @@ There is almost *never* a good reason to mention your religion, age, health or m
 
 A personal statement
 --------------------
+
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Do you agree with the advice on this page? What insight can you add?
+
+        In particular, what advice can you suggest on how to deal with ATS (application tracking systems)?
+
+        :ref:`How to contribute <contribute>`
 
 This is optional. It can give a neat snapshot of you as person, but it shouldn't be more than few words - perhaps one or two sentences - that says who you are, where you want to be going, and why.
 

@@ -47,6 +47,14 @@ In the absence of connections that simply come your way "naturally", through you
 
 That doesn't mean they can be *manufactured*. It's unsatisfying and ineffective to approach them in a transactional way. If you approach any relationship mainly from the perspective of your own advantage, it's not going to create the kind of bond that you need.
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Has knowing someone helped you? How?
+
+        :ref:`How to contribute <contribute>`
+
 Also, the value you get *out* of that kind of *network* is directly related to the effort and value you put in. For example, it's cheap and easy to form connections on social media, but they will be as cheap and shallow as your own engagement in them.
 
 

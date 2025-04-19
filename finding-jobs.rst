@@ -9,6 +9,14 @@ Being an effective hunter
 
 An effective job hunter keeps up with the daily stream of notices and advertisements, and also builds up an understanding of the longer-term trends and patterns. (In this respect it's rather like being a keen follower of current affairs - you need to keep up-to-date with the news, of events as they happen, and also with the longer-term story in which they occur.)
 
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        What was your experience of finding a role? What advice would you give? Do you agree with the advice on this page?
+
+        :ref:`How to contribute <contribute>`
+
 When you first start looking it will feel quite overwhelming. You'll see tens or hundreds of advertised jobs that could be right for you, and many people feel a sense of panic that the perfect job for them has just flashed by like a sign on the highway, too late for them to do anything about, and never to be seen again. And then another one! And another.
 
 Until you have patiently seen a couple of weeks' worth of job advertisements go by, carefully studying them, you are not really equipped to judge what you are seeing. Meanwhile it is almost guaranteed that you'll worry that you have let the perfect opportunity slip through your fingers, multiple times.
@@ -44,12 +52,23 @@ You will soon start to see patterns - about what's available, and which companie
 Where to look
 =============
 
+
+
 Companies' own jobs pages
 -------------------------
 
 It's worth it to go straight to the source. Every company that's hiring will have a jobs page. It's useful to see a job in the context of others at the same company.
 
 Even if you discover a company's job advertisement via another site, have a look at it on their site too. You might discover another role even better suited to you, or run into some other advantageous information related to the job. It's also where the information will be most up-to-date.
+
+
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        What is your preferred place to look and why?
+
+        :ref:`How to contribute <contribute>`
 
 
 Community-hosted listings

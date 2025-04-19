@@ -6,12 +6,15 @@ Different working arrangements
 
 ..  sidebar::
 
-    Different things might matter to you more than others.
+    ..  admonition:: Contribute your perspective
 
-Maybe you feel you will have more value earning a higher salary to send money back home, or perhaps that being part of a local technology community matters more. Living in Europe might be a wonderful adventure for someone but a huge sacrifice for another. Perhaps you believe that the most important thing you can do is apply your software skills to African problems.
+        What working arrangements have you experienced, and which have you most enjoyed - and why?
+
+        :ref:`How to contribute <contribute>`
+
+Maybe you feel you will have more value earning a higher salary to send money back home, or perhaps that being part of a local technology community matters more. Living in Europe might be a wonderful adventure for someone but a huge sacrifice for another. Perhaps you believe that the most important thing you can do is apply your software skills to African problems. Different things might matter to you more than others.
 
 You can take the table below with a pinch of salt. It's not intended to be a precise and definitive guide. It's generalised and you can safely add *probably* in front of everything it says. For example, some people who run their own businesses in Africa *will* be enormously successful - though for most people that will not be the case, and the economic reward will be modest.
-
 
 ..  list-table::
     :header-rows: 1
@@ -68,6 +71,14 @@ To an extent, the path you choose doesn't even matter that much.
 As in the rest of life, people suffer much less from making the wrong choice than they do from *not changing the situation they are in when it's not doing them good*. In other words, the choice you make might or might be the right one for you, but what will really make a difference to your long-term happiness and well-being is whether you find yourself stuck in it.
 
 For example, suppose that you take a job abroad with a software company, with life-changing income and prospects.
+
+..  sidebar::
+
+    ..  admonition:: Contribute your perspective
+
+        Have you had the experience of going down a path that wasn't right for you? What did you do about it? How did it work out?
+
+        :ref:`How to contribute <contribute>`
 
 In such a situation, where you are also successfully sending money back home, *it can be very hard to admit or even notice that you are not happy*, and it can feel that changing your path (perhaps, going back home to much lower income and lesser future prospects) is something you can't even consider. As an option, it doesn't cross your mind.
 
