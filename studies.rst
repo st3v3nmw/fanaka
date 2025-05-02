@@ -63,6 +63,8 @@ That's not attractive to a potential employer. The CS graduate who merely went t
 
 On the other hand, someone who threw themselves into their studies, and especially someone who eagerly took opportunities to use or create software as part of their studies (whatever the degree subject) is much more exciting. Software is everywhere now, and there is no shortage of opportunity for someone to demonstrate software skills in subjects all the way from biology to marketing.
 
+Don't be afraid to go beyond your curriculum. University programs often lag behind industry practices, with courses rarely covering many practical skills depending on your path; whether that's cloud infrastructure, web frameworks, UI/UX design, or app development. The computing world evolves rapidly, so identify what's relevant to your interests and complement your formal education. Even basic familiarity will set you apart from peers who rely solely on coursework.
+
 
 Taking opportunities
 ====================
@@ -75,7 +77,9 @@ Extra-curricular activities
 
 At university, there are clubs and societies related to all kinds of interests and concerns. Many of these are related to software and computing. Your degree might not be in Computer Science, but that doesn't stop you from having an active participation of great value in software. Apart from anything else, that's where you will find the most enthusiastic and adventurous collaborators, whose skills and ambitions you can also draw upon.
 
-Conversely, a degree without other participation is a rather sad sign of what someone cares about.
+These clubs also provide a low-stakes environment to develop soft skills. You can practice giving presentations about projects or technologies you're passionate about, receive feedback, and gain confidence that will prove invaluable when collaborating on software teams. The supportive atmosphere makes it easier to take risks and grow skills that technical courses alone don't always nurture - all while making meaningful connections.
+
+Remember, employers often value well-rounded students who demonstrate initiative beyond coursework alone.
 
 
 Open-source software engagement
