@@ -37,7 +37,7 @@ Examples
 Python and cloud data analytics
 -------------------------------
 
-You realise that the person for the job needs **solid Python experience** in a **cloud data analytics** environment.
+Let's say that you realise that the company needs someone with **solid Python experience** in a **cloud data analytics** environment. How can you show that you fit in, *and* stand out?
 
 
 Fit in
@@ -53,13 +53,13 @@ Stand out
 
     I started the Nairobi PyData group in 2018, and we have held a meet-up nearly every month since then.
 
-You show that you don't just use Python data tools at work, you actually care about the topic; you demonstrate personal interest, motivation and engagement.
+You show that you don't just use Python data tools at work, you actually *care* about the topic; you demonstrate personal interest, motivation and engagement.
 
 
 Documentation and Docker
 ------------------------
 
-The job is for a **documentation author** for a **deployment tool** that uses **Docker** and related technologies.
+Suppose it's a job for a **documentation author** for a **deployment tool** that uses **Docker** and related technologies.
 
 
 Fit in
