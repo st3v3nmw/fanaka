@@ -23,3 +23,10 @@ There are multiple options.
 * **Send your contribution or suggestion as a GitHub issue** (`create a new issue <https://github.com/evildmp/fanaka/issues/new>`_)
 
 * **Send your contribution or suggestion by email** (address on the `GitHub repository page  <https://github.com/evildmp/fanaka/>`_). The other methods described above will mean that your contribution will be associated with you, so do this if you would prefer that it isn't.
+
+
+Contributors
+============
+
+* `Daniele Procida <https://vurt.org>`_
+* `Stephen Mwangi <https://www.stephenmwangi.com>`_
