@@ -30,3 +30,7 @@ Contributors
 
 * `Daniele Procida <https://vurt.org>`_
 * `Stephen Mwangi <https://www.stephenmwangi.com>`_
+
+----------
+
+Fanaka © 2025 by Daniele Procida and other contributors is licensed under CC BY-SA 4.0

@@ -24,3 +24,8 @@ And you will find the site at http://localhost:8888.
 
 
 To perform spelling checks, run ``make spelling``.
+
+
+------------
+
+Fanaka © 2025 by Daniele Procida and contributors is licensed under CC BY-SA 4.0
