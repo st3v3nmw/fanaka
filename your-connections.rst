@@ -6,17 +6,17 @@ Your connections
 
 ..  rubric:: Knowing the right people won't get you a job, but it can help you.
 
-People often wonder whether *what* one knows is as important as *who* one knows.
+Does *who* you know matter as much as *what* you know? The answer is yes, who you know can make a huge difference - but it might not be in the way you think.
 
-Except in the most unusual and unlikely of circumstances, **you are not going to get a job simply by knowing the right person**. The world just doesn't work like that.
+Be clear that except in the most unusual and unlikely of circumstances, **you are not going to get a job simply by knowing the right person**. The world just doesn't work like that.
 
-The right people can make a difference though, and it pays to know who they are and how they can help you.
+What makes a difference is knowing people who know things, that they can share with you: insights, knowledge, advice, perspectives experiences - the things that this website tries to provide.
 
 
 Networks of knowledge
 =====================
 
-As an African, you are most likely on the outside of the software industry, looking in.
+As an African, you are most likely on the outside of the software industry, looking in (and Africans who do make it into the industry, even with great success, often say they feel that are still in some way outsiders, looking in).
 
 If you had been born say in San Francisco, perhaps you would have grown up sitting at dinner tables with uncles and cousins talking about the goings-on of Silicon Valley. It would be a familiar world, on your doorstep. If you had studied at a European technical university, you would have direct contact with people and conversations in the industry. Living anywhere in the west, you would likely be within reach of plenty of people familiar with jobs and job markets and the way these things work.
 
