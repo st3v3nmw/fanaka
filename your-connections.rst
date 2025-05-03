@@ -8,7 +8,7 @@ Your connections
 
 Does *who* you know matter as much as *what* you know? The answer is yes, who you know can make a huge difference - but it might not be in the way you think.
 
-Be clear that except in the most unusual and unlikely of circumstances, **you are not going to get a job simply by knowing the right person**. The world just doesn't work like that.
+Be clear that except in the most unusual and unlikely of circumstances, **you are not going to land a job simply by knowing the right person**. Nobody is going to "get you a job". The world just doesn't work like that.
 
 What makes a difference is knowing people who know things, that they can share with you: insights, knowledge, advice, perspectives experiences - the things that this website tries to provide.
 
