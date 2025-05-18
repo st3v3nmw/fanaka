@@ -116,7 +116,7 @@ Recruiter sites
 Rather than just listing jobs, these sites want you to log in, create an account and provide them with lots of details. Often they promise that having uploaded your CV and other information, you'll be able to apply to jobs "with just one click" (which is **strongly not recommended**).
 
 * `Wellfound <https://wellfound.com>`_
-* `Welcome to the Jungle <welcometothejungle.com>`_
+* `Welcome to the Jungle <https://welcometothejungle.com>`_
 * `We Work Remotely <https://weworkremotely.com>`_
 * `FlexJobs <https://www.flexjobs.com>`_
 
@@ -128,5 +128,5 @@ General job sites
 * `SimplyHired <https://www.simplyhired.com>`_
 * `LinkedIn Jobs <https://www.linkedin.com/jobs>`_
 * `Glassdoor <https://www.glassdoor.com/Job>`_
-* `Indeed <indeed.com>`_ has an almost unusable search function, despite being one of the biggest job sites on the planet
+* `Indeed <https://indeed.com>`_ has an almost unusable search function, despite being one of the biggest job sites on the planet
 * `Brian's job search <https://briansjobsearch.com/>`_ effectively turns your search parameters into a Google Jobs search
