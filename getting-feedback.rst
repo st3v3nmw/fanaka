@@ -1,4 +1,4 @@
-.. _getting-feedbacl:
+.. _getting-feedback:
 
 ====================================
 Getting feedback
@@ -110,3 +110,7 @@ Make sure you get feedback
 Record it, so you know that you are getting it, from who and how much. It will also help you see patterns that show where you need to turn your attention, but the point here is simply to ensure that you are getting feedback - that others are noticing your work, and caring about it and about you.
 
 Normalising it also helps make it easier for you to get feedback when it really matters, when it's going to help you, and makes receiving feedback, even the dreaded negative feedback, easier.
+
+-------
+
+Getting feedback is crucial - but you also need to :ref:`deal with feedback effectively <dealing-with-feedback>`.

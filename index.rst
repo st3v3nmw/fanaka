@@ -95,6 +95,7 @@ Success in the workplace
     :maxdepth: 1
 
     getting-feedback
+    dealing-with-feedback
 
 
 Understanding the industry
