@@ -16,7 +16,14 @@ You could spend a few years studying for a degree, or you could spend the same t
 
 Which of the two options will set you up best for a future job? Will an employer value one more than the other?
 
-Needless to say, there is no simple answer to such questions, but there is a simple principle: *choose what you think you will be able to do best*.
+..  sidebar::
+
+    ..  admonition:: Personal experience
+
+        Sharon Koech (Kenya) works at Canonical as a Technical Author; :ref:`she got into the industry via a degree in Economics and Statistics <sharon-studies>`.
+
+
+Needless to say, there is no simple answer to the questions above, but there is a simple principle: *choose what you think you will be able to do best*.
 
 For example, if it will be a great financial hardship to attend university and study for a degree for a few years, you will struggle to do really well - so don't go down that path. On the other hand if you think that you will succeed very well in your studies, working hard consistently and achieving good results, but would likely only achieve moderate success if you went straight into work - then dedicate yourself to your studies.
 

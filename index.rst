@@ -110,6 +110,15 @@ Understanding the industry
     remote-work-options
 
 
+Stories, experiences, perspectives
+----------------------------------
+
+..  toctree::
+    :maxdepth: 1
+
+    Into software via Economics and Statistics <perspectives/sharon-studies>
+
+
 Contribute
 ----------
 
