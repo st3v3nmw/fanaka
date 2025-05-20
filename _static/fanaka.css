@@ -1,14 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
 
 body {
-    --sand: #F8DEB5;
-    --green: #4F7461;
-    --blue: #73A3D1;
-    --orange: orange;
-
-}
-
-body {
     font-family: 'Newsreader', serif;
 }
 
@@ -189,4 +181,8 @@ table.wider tr {font-size: 90%;}
 
 /* -------- admonitions -------*/
 
-aside.sidebar .admonition .admonition-title {background: #ff9999;}
+aside.sidebar .admonition .admonition-title {font-weight: bold;}
+aside.sidebar .admonition {padding-left: 8px; padding-right: 8px;}
+
+@media not print body[data-theme=dark]
+{}
