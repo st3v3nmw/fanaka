@@ -189,6 +189,8 @@ Receiving positive feedback
 
 To receive positive feedback can be a tremendous boost. If you get it, you have deserved it, so enjoy it.
 
-Much of the advice above has focused on corrective feedback. Don't get the idea that positive feedback should be treated or received differently: **approach positive feedback in exactly the same way**. Look for both the :ref:`judgement and direction <dealing-with-feedback-two-dimensions>` (in the case of positive feedback you will often need to ask explicitly for some direction). :ref:`Record it <dealing-with-feedback-recording>` in the same way. Treat it like :ref:`a gift <dealing-with-feedback-gift>`, :ref:`receive it and unpack it <dealing-with-feedback-receiving>`, with the giver (also allowing yourself time to process it first) and then :ref:`own it <dealing-with-feedback-own>`.
+Much of the advice above has focused on corrective feedback. Don't get the idea that positive feedback should be treated or received differently: **approach positive feedback in exactly the same way**.
+
+Look for both the :ref:`judgement and direction <dealing-with-feedback-two-dimensions>` (in the case of positive feedback you will often need to ask explicitly for some direction). :ref:`Record it <dealing-with-feedback-recording>` in the same way. Treat it like :ref:`a gift <dealing-with-feedback-gift>`, :ref:`receive it and unpack it <dealing-with-feedback-receiving>`, with the giver (also allowing yourself time to process it first) and then :ref:`own it <dealing-with-feedback-own>`.
 
 There is in fact a special risk in getting positive feedback: false modesty, that means you shrug it off. Put that aside. It can obstruct your learning and progress as effectively as any obstinate pride.
