@@ -22,7 +22,13 @@ Having examples to demonstrate
 
 When applying for a job you will need to have multiple examples of value ready to hand, to answer questions and to show how you will behave in the situations that you'll have to face. And when you're in a job, the question of the value you bring will come up over and over again: when you have a period performance or pay review, when you apply for a promotion, when you make a request for something.
 
-Collect your examples in a structured way:
+..  sidebar::
+
+    ..  admonition:: Templates and resources
+
+        `Effort/value record spreadsheet <https://docs.google.com/spreadsheets/d/15XS3jw1OelcL3st2gSlpoH1nD4Rw7-D4H_ZTq5XMrtA/edit?usp=sharing>`_
+
+Collect your examples in a structured way, that shows *what you did* and *why it mattered*:
 
 ..  rst-class:: wider smaller
 
@@ -41,8 +47,6 @@ Collect your examples in a structured way:
 
 
     =================================================================================== ======== ============================================================================================= ======== ===============================
-
-You can use a copy of the example `Effort/value record spreadsheet <https://docs.google.com/spreadsheets/d/15XS3jw1OelcL3st2gSlpoH1nD4Rw7-D4H_ZTq5XMrtA/edit?usp=sharing>`_ for this purpose.
 
 
 Why use this structure

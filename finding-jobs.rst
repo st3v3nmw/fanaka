@@ -43,8 +43,9 @@ As soon as you see an interesting job advertisement, save it, along with the dat
 
 ..  sidebar::
 
-    *Keep your search record open all the time*. Use a copy of the `example job search spreadsheet <https://docs.google.com/spreadsheets/d/1smDc1j5_1DZePYdC08cXBOZUNEvff5G8YECh-k_MiEI/edit?usp=sharing>`_ or something similar.
+    ..  admonition:: Templates and resources
 
+        `Job search spreadsheet <https://docs.google.com/spreadsheets/d/1smDc1j5_1DZePYdC08cXBOZUNEvff5G8YECh-k_MiEI/edit?usp=sharing>`_
 
 You will soon start to see patterns - about what's available, and which companies are hiring. You'll start to notice which jobs get reposted, for example under different names. Having a record like this will help you make more sense of the context and your own situation. It's an interesting experience - and a very healthy reminder - to see a job that a little while ago seemed like a unique, unmissable opportunity is now nestled amongst several just like it, and that they are all cast into the shade by another that really *is* special.
 

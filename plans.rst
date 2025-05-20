@@ -127,6 +127,12 @@ Not completing the activities you said you would is a failure to respect your co
 Writing out your plan
 =====================
 
+..  sidebar::
+
+    ..  admonition:: Templates and resources
+
+        `Structured plan document <https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_
+
 A plan will not be successful unless it is written down. That puts it outside you - if it stays inside your head, you can tell yourself anything about it, and you will successfully fool yourself.
 
 ..  list-table::
@@ -150,8 +156,6 @@ A plan will not be successful unless it is written down. That puts it outside yo
     * - I will
       - * ...
         * ...
-
-You can use a copy of the `Structured plan document <https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_ for this.
 
 
 The time element
