@@ -8,6 +8,10 @@ Into software via Economics and Statistics
 
 -----------
 
+..  image:: /images/skoech.jpg
+    :alt: Sharon Koech
+    :class: floated
+
 Wondering, and also wandering, have been key to my professional success.
 
 They are how I found people and communities willing to take a chance on me, and also how I found open-source software and my career - technical documentation.
@@ -20,7 +24,7 @@ I don’t have a software background. I studied Economics and Statistics and enj
 
 I wanted to become a “computer expert” and decided I needed to study Computer Science instead. But I would forfeit the Kenyan government sponsorship I already had, and it would be unaffordably expensive (I didn’t even dare mention it to my parents). There was another option: a degree at a U.S. university - if I could obtain financial assistance to cover all the costs.
 
-I interrupted my studies to earn some money, and focused on applying for opportunities offered by U.S. colleges. I did writing jobs; I managed to buy a laptop; I studied for and took U.S. examinations, and made multiple applications to universities. And eventually, I received an offer, including financial aid - but it would only cover 75% of the costs. I would need to find another U.S.D 2200 each year, which was out of the question for me.
+I interrupted my studies to earn some money, and focused on applying for opportunities offered by U.S. colleges. I did writing jobs; I managed to buy a laptop; I studied for and took U.S. examinations, and made multiple applications to universities. And eventually, I received an offer, including financial aid - but it would only cover 75% of the costs. I would need to find another USD 2200 each year, which was out of the question for me.
 
 
 Doing it myself
@@ -44,7 +48,7 @@ I didn’t need a degree to get started in my career, but my studies did lead me
 
 If I could turn back time to when I was a fresh school-leaver, I would do a little more introspection, and a lot more research, before choosing a university course. I would trust my instincts more and not be afraid to pursue what I enjoy. I didn’t do that enough, and I didn’t have enough information and exposure to know what was even possible.
 
-Now, I am in a full-time remote position at Canonical, but I don’t regret the wandering path I took because it led me to exactly where I want to be. And, I appreciate all the achievements I’ve had even more because of it. What’s more, it even turned out that some of the crooked wandering on that path was regarded as a plus when it came to my application for the role.
+Now, I am in a full-time remote position at Canonical, but I don’t regret the wandering path I took because it led me to exactly where I want to be. And, I appreciate all the achievements I’ve had even more because of it. What’s more, it even turned out that some of the crooked wandering on that path was considered a plus when it came to my application for the role.
 
 -------
 

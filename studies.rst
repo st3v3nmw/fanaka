@@ -22,6 +22,9 @@ Which of the two options will set you up best for a future job? Will an employer
 
         Sharon Koech (Kenya) works at Canonical as a Technical Author; :ref:`she got into the industry via a degree in Economics and Statistics <sharon-studies>`.
 
+        ..  image:: /images/skoech.jpg
+            :alt: Sharon Koech
+
 
 Needless to say, there is no simple answer to the questions above, but there is a simple principle: *choose what you think you will be able to do best*.
 
