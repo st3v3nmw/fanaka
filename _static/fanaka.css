@@ -78,7 +78,17 @@ article .sidebar p.sidebar-title {
 
 /* --------- widths at different breakpoints --------- */
 
+
+
 /*  break out content asides and images at 52em */
+
+@media only screen and (min-width: 24em) {
+    img.floated {
+        width: 50%;
+        float: right;
+        margin-bottom: 1rem; margin-left: 1rem;
+    }
+}
 
 @media only screen and (min-width: 52em) {
     .content {
@@ -110,11 +120,6 @@ article .sidebar p.sidebar-title {
     }
 
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
-    img.floated {
-        width: 50%;
-        float: right;
-        margin-bottom: 1rem; margin-left: 1rem;
-    }
 
     h2>.headerlink,
     .sidebar p .headerlink {
