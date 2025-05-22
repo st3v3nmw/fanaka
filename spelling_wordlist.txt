@@ -15,8 +15,11 @@ Github
 grandmaster
 infographics
 initializer
+Jupyter
 Kiswahili
+Koech
 Kubernetes
+Matplotlib
 Muhammed
 nd
 neurodiverse
@@ -24,12 +27,15 @@ Ofili
 olympiad
 Pluralsight
 Postgres
+Pytest
 redescribe
 reposted
 resumé
 scalable
+Seaborn
 Tigrinya
 transactional
+unaffordably
 underperformance
 unenjoyable
 unignorable
