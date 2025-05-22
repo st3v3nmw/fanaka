@@ -47,7 +47,7 @@ Someone from a European background could be named "James Williams" from the day 
 
 It's much more complex for many Africans, whose identities can be multi-dimensional. Many Africans use different given names and even family names depending on the context and whom they are talking to.
 
-This can be a complete puzzle for non-Africans: why does this candidate put the name Miriam Ofili on the application form, use something different on her CV and she sign her email messages with something else again?
+This can be a complete puzzle for non-Africans: why does this candidate put the name *Miriam Ofili* on the application form, use something different on her CV and she sign her email messages with something else again?
 
 For the purpose of presenting yourself in the world of international business, it's recommended to choose a version of your name and stick to it everywhere, as far as possible - in person, in your email address, on LinkedIn.
 
@@ -111,7 +111,7 @@ This is optional. It can give a neat snapshot of you as person, but it shouldn't
 
 or:
 
-    An experienced developer and software coach with a passion for standards and education. I especially enjoy working with and contributing back to the open-source software projects and communities that gave me my first opportunities.
+    An experienced Python developer and software coach with a passion for standards and education. I especially enjoy working with and contributing back to the open-source software projects and communities that gave me my first opportunities.
 
 **Don't** make it longer. **Don't** repeat things that you're going to say elsewhere in the CV. **Don't** waste the space with disconnected and fluffy words - even if it is a picture of you from a bit of distance, *it needs to be solid and real*.
 
@@ -125,9 +125,9 @@ Always in reverse order, most recent at the top. Include dates and places, and n
 
 .. _your-cv-show-value:
 
-What you need to do here is :ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` - what *you* contributed. For example:
+What you need to do here is :ref:`show the value you brought <vurt:interviewing-rules-demonstrate-value>` - what *you* contributed. Notice how the examples below also name particular products and tools:
 
-    Created automated test cases to address several long-standing fragilities, that helped resolve them once and for all
+    Created automated test cases (Pytest, Playwright) to address several long-standing fragilities, that helped resolve them once and for all
 
     Rewrote all the tutorials for the product; we saw a 20% drop in common new-user support requests as result
 
@@ -139,7 +139,7 @@ You can also mention one-off things; even if they weren't part of the main story
 
 or:
 
-    Spoke at <some conference> about some interesting challenges we discovered as our database scaled
+    Spoke at <some conference> about some interesting scaling challenges as we migrated MySQL from the cloud to bare metal
 
 **Weave your skills into this.** Seeing a skill mentioned in the context of an achievement gives it a reality that listing it on its own never will.
 
@@ -159,9 +159,9 @@ It might not be possible for you to avoid this, but ensure that you describe the
 
     *Contracting roles 2021-2025*
 
-    * Technical documentation, SEO, website maintenance (*<client one>*)
+    * Technical documentation (Sphinx, RST), SEO, website maintenance (*<client one>*)
     * White papers, website content, technical articles (*<client two>*)
-    * Data analysis and presentation (infographics, charts, design) (*<client three>*)
+    * Data analysis (Pandas, NumPy, Jupyter) and presentation (Matplotlib, Seaborn) (*<client three>*)
     * Technical support, customer outreach, lead generation (*<client four>*)
 
 In this case, you could make it look even more intentional: *Samuel Oni Technical Communication (contracting roles 2021-2025)*. And why not? Entire companies have a business model like this, such as agencies.
@@ -200,7 +200,7 @@ If you have some, they can be worth mentioning. Don't start listing every single
 Skills
 ------
 
-Be really careful with this. *Usually, it's a waste of space.* Most of these should have already been woven into the descriptions of what you did in the work history section, where they will have more meaning. On the other hand, some experts recommend including it.
+Be really careful with this. *Usually, it's a waste of space.* Most of these should have *already* been woven into the descriptions of what you did in the work history section, where they will have more meaning. On the other hand, some experts recommend including it.
 
 Consider:
 
@@ -210,6 +210,10 @@ Consider:
 * "MS Office" is not a skill, and who cares, anyway?
 
 The problem with these is that all you can do is *say* you have a certain skill, and anyone can say that. You need to find ways to :ref:`show your skills, don't just assert them <vurt:interviewing-rules-show>`, to make it credible.
+
+
+Languages
+~~~~~~~~~
 
 One thing that African candidates often underestimate the value of is how many languages they speak - it can be very impressive. It can be worth mentioning those, for example:
 
