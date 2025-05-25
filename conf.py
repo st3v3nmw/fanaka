@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 html_title = full_title = project = 'Fanaka'
-copyright = '2025, Fanaka contributors'
-author = 'Fanaka contributors'
+copyright = '2025 Daniele Procida and contributors, licensed under CC BY-SA 4.0'
+author = 'Daniele Procida and contributors'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
