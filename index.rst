@@ -118,6 +118,7 @@ Stories, experiences, perspectives
     :maxdepth: 1
 
     Into software via Economics and Statistics <perspectives/sharon-studies>
+    From Mechanical Engineering to software documentation <perspectives/charles-mechanical-engineering>
 
 
 Contribute
