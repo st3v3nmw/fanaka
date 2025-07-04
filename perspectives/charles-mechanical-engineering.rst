@@ -1,4 +1,4 @@
-.. _sharon-studies:
+.. charles-odada-fanaka:
 
 =====================================================
 From Mechanical Engineering to software documentation
@@ -31,7 +31,7 @@ After completing my master’s degree, I faced a different problem. My skillset 
 
 A month after graduating, I accepted a role as a data and research consultant for a 3D printing startup in Kisumu. Amongst other things I worked with manufacturing systems, did some coding and data analysis, and wrote documentation.
 
-When that ended, I spent a few fun months improving my Python skills, and then restarted my freelance writing career because, once again, I didn’t like the idea of staying still - especially not with real bills that had to be paid this time.
+When that ended, I spent a few fun months improving my Python skills, and then restarted my freelance writing career because I didn’t like the idea of being static - especially not with real bills that had to be paid. 
 
 
 My other career
