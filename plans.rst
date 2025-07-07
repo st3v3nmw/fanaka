@@ -124,16 +124,18 @@ Not keeping your commitments
 Not completing the activities you said you would is a failure to respect your commitments. It is literally failing to do your work. (Occasionally, you can be forgiven - for example if you realise that in good faith, you promised more than you could give - but that should be a rare occurrence.)
 
 
+.. _plans-writing-out:
+
 Writing out your plan
 =====================
+
+A plan will not be successful unless it is written down. That puts it outside you - if it stays inside your head, you can tell yourself anything about it, and you will successfully fool yourself.
 
 ..  sidebar::
 
     ..  admonition:: Templates and resources
 
-        `Structured plan document <https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_
-
-A plan will not be successful unless it is written down. That puts it outside you - if it stays inside your head, you can tell yourself anything about it, and you will successfully fool yourself.
+        `Professional development plan template <https://docs.google.com/document/d/11hC8Sx4qUhNY1zPxlWaEE80l-4dGMA8cmnDPy4N41Z4/edit?usp=sharing>`_
 
 ..  list-table::
     :stub-columns: 1

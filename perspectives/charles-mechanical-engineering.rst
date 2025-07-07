@@ -12,7 +12,7 @@ From Mechanical Engineering to software documentation
     :alt: Charles Odada Koech
     :class: floated
 
-I’ve been around computers since I was eight and first used a Linux operating system at 10. Perhaps not so unique today, but in the context of the Kenyan 90s, a real headstart for a technology career.
+I’ve been around computers since I was eight and first used a Linux operating system at 10. Perhaps not so unique today, but in the context of the Kenyan 90s, a real head-start for a technology career.
 
 That’s what I wanted, but my father had other ideas, so despite having thought about nothing but computers for several years, when the time came for university I had to choose another path.
 
@@ -21,17 +21,17 @@ The sneaky side door
 
 I went with mechanical and production engineering. My love for computers didn’t limit my ability to love other things, and I do love mechanical systems. It was also an excellent career path, and it turned out to be a side door back into computers!
 
-After my degree, I received a scholarship to pursue a master’s in advanced manufacturing and automation engineering. As well as working with CAD software, I was writing code for microcontrollers handling input from sensors in the real world, developing a cyberphysical system (digital twin), manipulating machine g-code, working with obscure software libraries, and more. It wasn’t what I imagined when I first dreamed about working with computers but I loved every bit of it.
+After my degree, I received a scholarship to pursue a master’s in advanced manufacturing and automation engineering. As well as working with CAD software, I was writing code for microcontrollers handling input from sensors in the real world, developing a cyber-physical system (digital twin), manipulating machine g-code, working with obscure software libraries, and more. It wasn’t what I imagined when I first dreamed about working with computers but I loved every bit of it.
 
 
 Work and opportunities
 ======================
 
-After completing my master’s degree, I faced a different problem. My skillset was out of sync with the local job market. Luckily, I had anticipated this problem and had taken a short course in data science to give myself something extra to work with. This course was also my first proper introduction to Python.
+After completing my master’s degree, I faced a different problem. My skill-set was out of sync with the local job market. Luckily, I had anticipated this problem and had taken a short course in data science to give myself something extra to work with. This course was also my first proper introduction to Python.
 
 A month after graduating, I accepted a role as a data and research consultant for a 3D printing startup in Kisumu. Amongst other things I worked with manufacturing systems, did some coding and data analysis, and wrote documentation.
 
-When that ended, I spent a few fun months improving my Python skills, and then restarted my freelance writing career because I didn’t like the idea of being static - especially not with real bills that had to be paid. 
+When that ended, I spent a few fun months improving my Python skills, and then restarted my freelance writing career because I didn’t like the idea of being static - especially not with real bills that had to be paid.
 
 
 My other career

@@ -53,8 +53,6 @@ You will soon start to see patterns - about what's available, and which companie
 Where to look
 =============
 
-
-
 Companies' own jobs pages
 -------------------------
 
