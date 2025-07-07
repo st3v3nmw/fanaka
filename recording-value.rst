@@ -1,3 +1,5 @@
+.. _recording-value:
+
 ===========================
 How to record value
 ===========================
@@ -16,6 +18,8 @@ But, it is not always easy to think like this. We tend to think how hard we work
 
 Value also isn't really easy to define, though it's very recognisable when you see it. The best way to arrive at it is through the question: *what changed, in a positive way, because of something I did?*
 
+
+.. _recording-value-sheet:
 
 Having examples to demonstrate
 ==============================
