@@ -71,6 +71,8 @@ Approaching a job
     submitting-applications
     standing-out
     interview-success-basics
+    interview-success-what-to-say
+    interview-success-performance
 
 
 Successful practices
@@ -121,10 +123,11 @@ Stories, experiences, perspectives
     From Mechanical Engineering to software documentation <perspectives/charles-mechanical-engineering>
 
 
-Contribute
-----------
+About this site
+---------------
 
 ..  toctree::
     :maxdepth: 1
 
+    resources
     contribute

@@ -1,5 +1,7 @@
+.. _interview-basics:
+
 ==============================
-Interview success - the basics
+Interviews - the basics
 ==============================
 
 ..  rubric:: Nothing should be an unnecessary surprise when you attend an interview.
@@ -54,7 +56,7 @@ Don't put yourself in a situation where the interviewer is wondering whether you
 Everything ready to hand
 ========================
 
-Have everything ready to hand. The job description, your CV, your notes, the answers you sent in with your initial application. It's not impressive when the interviewer mentions sonething the candidate wrote in their application and a look of panic crosses their face, because they can't even remember saying that.
+Have everything ready to hand. The job description, your CV, your notes, the answers you sent in with your initial application. It's not impressive when the interviewer mentions something the candidate wrote in their application and a look of panic crosses their face, because they can't even remember saying that.
 
 When you're faced with a question like: "Can you show me an example of your work?" you don't want to get into a scramble to find something. Have it all ready. (In any case, you should be the one leading that conversation: "I'd like to be able to talk you through some examples of my work".)
 
@@ -62,17 +64,19 @@ When you're faced with a question like: "Can you show me an example of your work
 Who are you meeting?
 ====================
 
-They know all about you, or at least all there is to know about you from the mass information you have supplied them with. Make sure you know *something* about the person you're meeting. Look them up. How long have they been at the organisation, and where were they before? What products and projects are they involved in? What professional topics do they write or speak about?
+They know all about you, or at least all there is to know about you from the mass information you have supplied them with.
+
+Make sure you know *something* about the person you're meeting. Look them up. How long have they been at the organisation, and where were they before? What products and projects are they involved in? What professional topics do they write or speak about?
 
 
-Do you have any questions for me?
-=================================
+Why are you meeting?
+====================
 
-You're going to be asked if you have any questions.
+There is no such thing as "an interview", *i.e.* a generic interview. It's always an interview with a particular purpose -- a basic introduction, a technical skills interview, a communication skills interview -- an interview concerned with *something*.
 
-Work out what *you* want to know about the company or the job, and formulate appropriate questions.
+Just because they don't tell you what it's going to be, don't imagine that it's going to be some sort of general chat. Better to ask them.
 
-You'll find a lot of advice offered about what questions to ask. Some of it's good advice - but a question you are genuinely interested in is worth much more.
+If they really don't have a purpose in mind, you're going to have an aimless chat rather than an interview, and you can safely conclude they don't really know what they're doing.
 
 
 Have things written down
