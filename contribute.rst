@@ -30,7 +30,7 @@ Contributors
 
 * `Daniele Procida <https://vurt.org>`_
 * `Stephen Mwangi <https://www.stephenmwangi.com>`_
-* `Sharon <https://www.linkedin.com/in/skoech/>`_
+* `Sharon Koech <https://www.linkedin.com/in/skoech/>`_
 * `Charles Odada <https://www.linkedin.com/in/charlesodada/>`_
 
 
