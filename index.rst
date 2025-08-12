@@ -6,7 +6,7 @@
 Fanaka
 ==========
 
-..  rubric:: Fanaka is handbook for prospective and early-career African professionals in the international software industry.
+..  rubric:: Fanaka is a handbook for prospective and early-career African professionals in the international software industry.
 
 
 It aims to cover some of the gaps they face, and help people work across them to success, in finding work, and at work.
