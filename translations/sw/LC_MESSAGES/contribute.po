@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fanaka \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-18 22:43+0200\n"
+"POT-Creation-Date: 2025-08-18 23:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: sw\n"
@@ -86,26 +86,122 @@ msgid ""
 msgstr ""
 
 #: ../../contribute.rst:29
-msgid "Contributors"
+msgid "To contribute a translation"
 msgstr ""
 
 #: ../../contribute.rst:31
-msgid "`Daniele Procida <https://vurt.org>`_"
+msgid ""
+"You can contribute to translation of Fanaka either by using the Transifex"
+" web interface or by editing the project's translation files in the Git "
+"repository."
 msgstr ""
 
-#: ../../contribute.rst:32
-msgid "`Stephen Mwangi <https://www.stephenmwangi.com>`_"
+#: ../../contribute.rst:35
+msgid "Using Transifex"
 msgstr ""
 
-#: ../../contribute.rst:33
-msgid "`Sharon Koech <https://www.linkedin.com/in/skoech/>`_"
-msgstr ""
-
-#: ../../contribute.rst:34
-msgid "`Charles Odada <https://www.linkedin.com/in/charlesodada/>`_"
+#: ../../contribute.rst:37
+msgid ""
+"Transifex is a service that provides a convenient web-based interface for"
+" collaborating on translation."
 msgstr ""
 
 #: ../../contribute.rst:39
+msgid ""
+"Join the `Fanaka translation team on Transifex "
+"<https://explore.transifex.com/danieleprocida/fanaka/>`_."
+msgstr ""
+
+#: ../../contribute.rst:41
+msgid "Transifex guides:"
+msgstr ""
+
+#: ../../contribute.rst:43
+msgid ""
+"`Getting started as a translator "
+"<https://help.transifex.com/en/articles/6248698-getting-started-"
+"as-a-translator>`_"
+msgstr ""
+
+#: ../../contribute.rst:44
+msgid ""
+"`Translating with the web editor "
+"<https://help.transifex.com/en/articles/6318216-translating-with-the-web-"
+"editor>`_"
+msgstr ""
+
+#: ../../contribute.rst:46
+msgid ""
+"The web editor for Fanaka on Transifex: "
+"https://app.transifex.com/danieleprocida/fanaka/translate/."
+msgstr ""
+
+#: ../../contribute.rst:50
+msgid "Editing translation files"
+msgstr ""
+
+#: ../../contribute.rst:52
+msgid ""
+"Strings for transalation are referred to as \"messages\" - this is based "
+"on the origin of the translation system's focus on application and system"
+" messages."
+msgstr ""
+
+#: ../../contribute.rst:54
+msgid ""
+"Translations for each page are added or edited in the corresponding "
+"``.po`` (Portable Object) file, which can be found in "
+"``locales/<lang>/LC_MESSAGES/``. For example to translate :ref:`studies` "
+"(``studies.fr``) to French:"
+msgstr ""
+
+#: ../../contribute.rst:56
+msgid "the original page: ``studies.rst``"
+msgstr ""
+
+#: ../../contribute.rst:57
+msgid "the  ``.po`` file to edit: ``locales/fr/LC_MESSAGES/``"
+msgstr ""
+
+#: ../../contribute.rst:59
+msgid ""
+"The ``.po`` file contains pairs of strings, the original ``msgid`` "
+"(\"message ID\") and the translation (\"message string\"). For example::"
+msgstr ""
+
+#: ../../contribute.rst:64
+msgid ""
+"In this case the ``msgstr`` is empty - no translation exists yet, so the "
+"translator needs to add *Expérience professionnelle* to the ``msgstr``."
+msgstr ""
+
+#: ../../contribute.rst:66
+msgid ""
+"The final step is to make a pull request containing the new translations "
+"that have been added."
+msgstr ""
+
+#: ../../contribute.rst:70
+msgid "Contributors"
+msgstr ""
+
+#: ../../contribute.rst:72
+msgid "`Daniele Procida <https://vurt.org>`_"
+msgstr ""
+
+#: ../../contribute.rst:73
+msgid "`Stephen Mwangi <https://www.stephenmwangi.com>`_"
+msgstr ""
+
+#: ../../contribute.rst:74
+msgid "`Sharon Koech <https://www.linkedin.com/in/skoech/>`_"
+msgstr ""
+
+#: ../../contribute.rst:75
+msgid "`Charles Odada <https://www.linkedin.com/in/charlesodada/>`_"
+msgstr ""
+
+#: ../../contribute.rst:80
 msgid ""
 "Fanaka © 2025 by Daniele Procida and other contributors is licensed under"
 " CC BY-SA 4.0"

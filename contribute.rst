@@ -25,6 +25,47 @@ There are multiple options.
 * **Send your contribution or suggestion by email** (address on the `GitHub repository page  <https://github.com/evildmp/fanaka/>`_). The other methods described above will mean that your contribution will be associated with you, so do this if you would prefer that it isn't.
 
 
+To contribute a translation
+===========================
+
+You can contribute to translation of Fanaka either by using the Transifex web interface or by editing the project's translation files in the Git repository.
+
+
+Using Transifex
+---------------
+
+Transifex is a service that provides a convenient web-based interface for collaborating on translation.
+
+Join the `Fanaka translation team on Transifex <https://explore.transifex.com/danieleprocida/fanaka/>`_.
+
+Transifex guides:
+
+* `Getting started as a translator <https://help.transifex.com/en/articles/6248698-getting-started-as-a-translator>`_
+* `Translating with the web editor <https://help.transifex.com/en/articles/6318216-translating-with-the-web-editor>`_
+
+The web editor for Fanaka on Transifex: https://app.transifex.com/danieleprocida/fanaka/translate/.
+
+
+Editing translation files
+-------------------------
+
+Strings for transalation are referred to as "messages" - this is based on the origin of the translation system's focus on application and system messages.
+
+Translations for each page are added or edited in the corresponding ``.po`` (Portable Object) file, which can be found in ``locales/<lang>/LC_MESSAGES/``. For example to translate :ref:`studies` (``studies.fr``) to French:
+
+* the original page: ``studies.rst``
+* the  ``.po`` file to edit: ``locales/fr/LC_MESSAGES/``
+
+The ``.po`` file contains pairs of strings, the original ``msgid`` ("message ID") and the translation ("message string"). For example::
+
+    msgid "Professional experience"
+    msgstr ""
+
+In this case the ``msgstr`` is empty - no translation exists yet, so the translator needs to add *Expérience professionnelle* to the ``msgstr``.
+
+The final step is to make a pull request containing the new translations that have been added.
+
+
 Contributors
 ============
 
