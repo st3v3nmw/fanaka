@@ -25,7 +25,7 @@ There are multiple options.
 * **Send your contribution or suggestion by email** (address on the `GitHub repository page  <https://github.com/evildmp/fanaka/>`_). The other methods described above will mean that your contribution will be associated with you, so do this if you would prefer that it isn't.
 
 
-To contribute a translation
+Contribute to translations
 ===========================
 
 You can contribute to translation of Fanaka either by using the Transifex web interface or by editing the project's translation files in the Git repository.

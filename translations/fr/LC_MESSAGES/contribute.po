@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fanaka \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-18 23:25+0200\n"
+"POT-Creation-Date: 2025-08-18 23:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -86,7 +86,7 @@ msgid ""
 msgstr ""
 
 #: ../../contribute.rst:29
-msgid "To contribute a translation"
+msgid "Contribute to translations"
 msgstr ""
 
 #: ../../contribute.rst:31
@@ -206,4 +206,7 @@ msgid ""
 "Fanaka © 2025 by Daniele Procida and other contributors is licensed under"
 " CC BY-SA 4.0"
 msgstr ""
+
+#~ msgid "To contribute a translation"
+#~ msgstr ""
 
