@@ -38,4 +38,5 @@ intersphinx_mapping = {'vurt': ('https://vurt.eu', None)}
 
 spelling_lang = tokenizer_lang = "en_GB"
 
-
+locale_dirs = ['translations/']
+gettext_compact = False

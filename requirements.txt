@@ -1,4 +1,5 @@
-furo
-sphinx
-sphinx-autobuild
-sphinxcontrib-spelling
+furo==2025.7.19
+Sphinx==8.2.3
+sphinx-autobuild==2024.10.3
+sphinxcontrib-spelling==8.0.1
+sphinx-intl==2.3.2
